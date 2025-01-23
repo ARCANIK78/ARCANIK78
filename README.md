@@ -31,8 +31,6 @@
 
 - ☁️ I am currently involved in software development, web development, mobile development on Android. **
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
 - 💬 Ask me about Linux.**
 
 - 📫 Feel free to reach me out **loisgordisrour@gmail.com**
