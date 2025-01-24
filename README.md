@@ -93,7 +93,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="linkedin.com/in/luis-edgar-arcani-ribera-278645257" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.facebook.com/tu_usuario" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234983848-c0a2f5cf-6847-40f1-99d1-138202d3ef51.png" alt="facebook" height="50" width="50" /></a> 
+<a href="https://www.facebook.com/arcanik.dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" height="50" width="50" /></a> 
 </p>
 
 
