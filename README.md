@@ -24,7 +24,7 @@
 
 - 🌱 I like to solve problems and provide solutions.**
 
-- ☁️ I am currently involved in software development, web development, mobile development on Android. **
+- ☁️ I am currently involved in software development, web development, mobile development. **
 
 - 💬 Ask me about Linux.**
 
