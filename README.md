@@ -82,7 +82,7 @@
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,asp,kotlin,html,css,js,tailwind,react,materialui,django,nodejs,sqlite,mssql,mysql,mongodb,firebase,postgresql,github,visualstudio,vscode,neovim,linux,ubuntu,debian,kali&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,kotlin,html,css,js,tailwind,react,Vite-Dark,materialui,django,nodejs,sqlite,mssql,mysql,mongodb,firebase,postgresql,github,git,visualstudio,vscode,neovim,linux,ubuntu,debian,kali&perline=14" />
 </a>
 </p>
 
