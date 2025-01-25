@@ -20,16 +20,17 @@
 
 
 <!--Intro start-->
-- 🔭 I am currently working as a freelancer.**
+- 🔭 I am currently working as a freelancer.
 
-- 🌱 I like to solve problems and provide solutions.**
+- 🌱 I like to solve problems and provide solutions.
 
-- ☁️ I am currently involved in software development, web development, mobile development. **
+- ☁️ I am currently involved in software development, web development, mobile development. 
 
-- 💬 Ask me about Linux.**
+- 💬 Ask me about Linux.
 
 - 📫 Feel free to reach me out **loisgordisrour@gmail.com**
 
+- 🇧🇴 My whatsapp number is **+591 72811240**
 <!--Intro end-->
 
 
