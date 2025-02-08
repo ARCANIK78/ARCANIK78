@@ -49,7 +49,7 @@
 
 <td width="50%" align="center">
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANIK78&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANIK78&langs_count=10&theme=radical)
   
   </td>
 </tr>
