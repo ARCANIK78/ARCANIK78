@@ -44,7 +44,7 @@
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
 <img align="center" width=84% 
-     src="https://github-profile-trophy.vercel.app/?username=ARCANIK78&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
+     src="https://github-profile-trophy-liard-delta.vercel.app/?username=ARCANIK78&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
      alt="TROPHY" />
 </a>
 </div>
@@ -71,7 +71,7 @@
 <p align="center">
 <a href="https://bo.linkedin.com/in/luis-edgar-arcani-ribera-278645257" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="mailto:luisedgararcaniribera@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50" /></a> 
-<a href="https://arcanidev.vercel.app/" target="blank"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="#E91E63" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></a> 
+<a href="https://arcanidev.vercel.app/" target="blank"><img align="center" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 24 24' fill='none' stroke='%23E91E63' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cline x1='2' y1='12' x2='22' y2='12'/%3E%3Cpath d='M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z'/%3E%3C/svg%3E" alt="portfolio" height="50" width="50" /></a> 
 </p>
 
 <p align="center"><i>"Talk is cheap. Show me the code."</i> — Linus Torvalds</p>
