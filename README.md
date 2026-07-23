@@ -3,14 +3,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Arcani</h1></summary>
-  </ul>
-</div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Arcani 🇧🇴</h1></summary>
   </ul>
 </div>
 
@@ -19,7 +12,6 @@
 - Passionate about **problem-solving** and delivering effective solutions.
 - Experienced in **web, mobile, and software development**.
 - Knowledgeable in **Linux** and open-source technologies.
-- Based in **Bolivia**.
 <!--Intro end-->
 
 
@@ -30,7 +22,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=ARCANIK78&show_icons=true&theme=radical)
+  ![Arcani's GitHub stats](https://github-stats-extended.vercel.app/api?username=ARCANIK78&show_icons=true&theme=radical)
   <br></br>
   <br></br>
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" 
@@ -41,7 +33,7 @@
 
 <td width="50%" align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANIK78&langs_count=10&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ARCANIK78&langs_count=10&theme=radical)
   
   </td>
 </tr>
@@ -56,7 +48,7 @@
      alt="TROPHY" />
 </a>
 </div>
-<!--- trophy (start) -->
+<!--- trophy (end) -->
 
 
 </p>        
@@ -71,22 +63,23 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Find me</h2></summary>
   </ul>
 </div>
 
 <!--icons and links-->
 <p align="center">
 <a href="https://bo.linkedin.com/in/luis-edgar-arcani-ribera-278645257" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.facebook.com/arcanik.dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" height="50" width="50" /></a> 
-<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50" /></a> 
-<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Gmail" height="50" width="50" /></a> 
+<a href="mailto:luisedgararcaniribera@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50" /></a> 
+<a href="https://arcanidev.vercel.app/" target="blank"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="#E91E63" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></a> 
 </p>
+
+<p align="center"><i>"Talk is cheap. Show me the code."</i> — Linus Torvalds</p>
 
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ARCANIK78&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
