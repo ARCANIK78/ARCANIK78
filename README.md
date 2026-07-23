@@ -71,7 +71,7 @@
 <p align="center">
 <a href="https://bo.linkedin.com/in/luis-edgar-arcani-ribera-278645257" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="mailto:luisedgararcaniribera@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50" /></a> 
-<a href="https://arcanidev.vercel.app/" target="blank">🌐</a> 
+<a href="https://arcanidev.vercel.app/" target="blank"><span style="font-size: 46px; vertical-align: middle;">🌐</span></a> 
 </p>
 
 <p align="center"><i>"Talk is cheap. Show me the code."</i> — Linus Torvalds</p>
